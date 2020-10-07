@@ -21,3 +21,14 @@ header{
 hr{
   border: 2px solid lighgrey;
 }
+
+#bottone{
+  background-color: white;
+  border-radius: 6px;
+}
+
+#numero{
+  background-color: orange;
+  padding: 10px;
+  border-radius: 50%;
+}
