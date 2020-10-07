@@ -5,7 +5,7 @@
 }
 
 .container{
-  width: 60%;
+  width: 70%;
   margin: auto;
 }
 
@@ -31,4 +31,24 @@ hr{
   background-color: orange;
   padding: 10px;
   border-radius: 50%;
+}
+
+.letta{
+  background-color: lightgrey;
+}
+
+.non_letta{
+  background-color: white;
+}
+
+.oggetto_mail{
+  display: inline-block;
+  width: 20%;
+  color: black;
+}
+
+.corpo_mail{
+  display: inline-block;
+  width: 79%;
+  color: grey;
 }
