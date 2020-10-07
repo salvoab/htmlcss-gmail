@@ -1,8 +1,23 @@
 #page_body{
   background-image: url(../img/bg2_1920x1200.jpg);
+  background-size: cover;
+  color: white;
 }
 
 .container{
   width: 60%;
   margin: auto;
+}
+
+#titolo{
+  display: inline;
+  font-size: 24px;
+}
+
+header{
+  margin-top: 20px;
+}
+
+hr{
+  border: 2px solid lighgrey;
 }
