@@ -52,3 +52,12 @@ hr{
   width: 79%;
   color: grey;
 }
+
+.foot{
+  text-align: center;
+  font-size: 14px;
+}
+
+#logo{
+  font-size: 24px;
+}
