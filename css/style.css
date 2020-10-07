@@ -10,8 +10,9 @@
 }
 
 #titolo{
-  display: inline;
+  display: inline-block;
   font-size: 24px;
+  vertical-align: top;
 }
 
 header{
@@ -31,6 +32,10 @@ hr{
   background-color: orange;
   padding: 10px;
   border-radius: 50%;
+}
+
+.riga{
+  border: 1px solid black;
 }
 
 .letta{
